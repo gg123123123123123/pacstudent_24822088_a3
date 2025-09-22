@@ -8,10 +8,10 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Walls
   - Water
   - UI
-  - 
+  - GhostWall
   - 
   - 
   - 
@@ -40,4 +40,19 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: EmptySpace
+    uniqueID: 3664073433
+    locked: 0
+  - name: Walls
+    uniqueID: 246787565
+    locked: 0
+  - name: Pellets
+    uniqueID: 848300859
+    locked: 0
+  - name: Characters
+    uniqueID: 900633911
+    locked: 0
+  - name: UI
+    uniqueID: 2887131653
     locked: 0
